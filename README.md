@@ -2,7 +2,7 @@
 ### 👨‍💻 About Me :
 Hi - I am a former product marketing manager and corporate strategist now turned software engineer.
 
-After graduating with a Bachelor of Arts in Economics and wearing many hats at a big tech company, I decided to step back and invest in myself by pursuing my interest in coding. I was accepted in App Academy, a top software engineering program. During this time, I was able to expand my skillset to include programming languages and frameworks such as React, Ruby on Rails, Javascript, PostgreSQL, MongoDB, and more.
+After graduating with a Bachelor of Arts in Economics and wearing many hats at a big tech company, I decided to pursue my interest in coding by attending App Academy, a top software engineering program. During this time, I was able to expand my skillset to include programming languages and frameworks such as React, Ruby on Rails, Javascript, PostgreSQL, MongoDB, and more.
 
 Outside of coding, my interests include dancing, reading, and meditating. 
 
