@@ -2,7 +2,7 @@
 ### 👨‍💻 About Me :
 Hi - I am a former product marketing manager and corporate strategist now turned software engineer.
 
-After graduating with a Bachelor of Arts in Economics and wearing many hats within the technology industry, I decided to pursue my interest in coding by undergoing software engineering studues. During this time, I was able to expand my skillset to include programming languages and frameworks such as React, Ruby on Rails, Javascript, PostgreSQL, MongoDB, and more.
+After graduating with a Bachelor of Arts in Economics and wearing many hats within the technology industry, I decided to pursue my interest in coding by undergoing software engineering studies. During this time, I was able to expand my skillset to include programming languages and frameworks such as React, Ruby on Rails, Javascript, PostgreSQL, MongoDB, and more.
 
 Outside of coding, my interests include dancing, reading, and meditating. 
 
